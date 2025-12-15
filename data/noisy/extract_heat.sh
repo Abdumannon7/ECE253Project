@@ -4,8 +4,8 @@
 CONDA_ENV="mvs"
 
 # Input/output folders
-INPUT_DIR="noiseprint_denoised"
-OUTPUT_DIR="heat_denoised"
+INPUT_DIR="../hazy/noiseprint_clean_dehazed"
+OUTPUT_DIR="../hazy/heat_dehazed"
 mkdir -p "$OUTPUT_DIR"
 
 # Activate conda environment
