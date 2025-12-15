@@ -1,0 +1,3 @@
+[submodule "src/noiseprint"]
+	path = src/noiseprint
+	url = https://github.com/grip-unina/noiseprint.git
