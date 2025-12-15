@@ -1,3 +1,6 @@
 [submodule "src/noiseprint"]
 	path = src/noiseprint
 	url = https://github.com/grip-unina/noiseprint.git
+[submodule "src/noisy/SwinIR"]
+	path = src/noisy/SwinIR
+	url = https://github.com/JingyunLiang/SwinIR.git
